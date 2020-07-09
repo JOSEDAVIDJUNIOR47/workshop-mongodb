@@ -2,8 +2,6 @@ package com.david.workshopmongo.dto;
 
 import java.io.Serializable;
 
-import org.springframework.data.annotation.Id;
-
 import com.david.workshopmongo.domain.User;
 
 public class UserDTO implements Serializable {
